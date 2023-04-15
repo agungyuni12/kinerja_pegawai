@@ -1,9 +1,9 @@
 <?php 
  
-$server = "localhost";
-$user = "root";
+$server = "";
+$user = "";
 $pass = "";
-$database = "kinerja_pegawai";
+$database = "";
  
 $conn = mysqli_connect($server, $user, $pass, $database);
  
